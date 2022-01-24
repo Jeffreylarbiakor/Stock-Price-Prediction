@@ -6,5 +6,19 @@ The secret of a successful stock trader is being able to look into the future of
 
  Here, we are provided dataset of a public stock market for 104 stocks. Our goal is to forecast the future closing prices for these stocks with your Data Science skills for the next 2 months
  
- 
+ ---
+
+## Data Dictionary
+### Train.csv
+* **id:** Unique ID for each record
+* **Stock:** Unique ID for a stock
+* **Date:** Date for which the stock prices are provided
+* **Opening:** Opening price of the stock on a trading day
+
+High	
+Highest price of the stock on a trading day
+
+Low	Lowest price of the stock on a trading day
+holiday	Whether there is a holiday or not (0/1)
+unpredictability_score	a parameter providing a measure of how volatile. a particular stock is (0-9)
  
