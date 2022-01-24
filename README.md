@@ -16,6 +16,6 @@ The secret of a successful stock trader is being able to look into the future of
 * **Open:** Opening price of the stock on a trading day
 * **High:** Highest price of the stock on a trading day
 * **Low:** Low	Lowest price of the stock on a trading day
-* **Holiday:**Whether there is a holiday or not (0/1)
+* **Holiday:** Whether there is a holiday or not (0/1)
 * **Unpredictability Score:** A parameter providing a measure of how volatile. a particular stock is (0-9)
  
