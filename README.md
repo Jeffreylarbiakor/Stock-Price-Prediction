@@ -13,12 +13,9 @@ The secret of a successful stock trader is being able to look into the future of
 * **id:** Unique ID for each record
 * **Stock:** Unique ID for a stock
 * **Date:** Date for which the stock prices are provided
-* **Opening:** Opening price of the stock on a trading day
-
-High	
-Highest price of the stock on a trading day
-
-Low	Lowest price of the stock on a trading day
-holiday	Whether there is a holiday or not (0/1)
-unpredictability_score	a parameter providing a measure of how volatile. a particular stock is (0-9)
+* **Open:** Opening price of the stock on a trading day
+* **High:** Highest price of the stock on a trading day
+* **Low:** Low	Lowest price of the stock on a trading day
+* **Holiday:**Whether there is a holiday or not (0/1)
+* **Unpredictability Score:** A parameter providing a measure of how volatile. a particular stock is (0-9)
  
