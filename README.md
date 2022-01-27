@@ -20,6 +20,6 @@ The secret of a successful stock trader is being able to look into the future of
 * **Unpredictability Score:** A parameter providing a measure of how volatile. a particular stock is (0-9)
 
 
-[Back To The Top](#marketing-campaign-prediction)
+[Back To The Top](#Stock-Price-Prediction)
 
 ---
