@@ -20,6 +20,16 @@ The secret of a successful stock trader is being able to look into the future of
 * **Unpredictability Score:** A parameter providing a measure of how volatile. a particular stock is (0-9)
 
 
+### Test.csv
+id: Unique ID for each record
+
+stock: Unique ID for a stock
+
+Date: Date for which the stock prices are provided
+
+holiday	Whether there is a holiday or not (0/1)
+unpredictability_score	a parameter providing a measure of how volatile. a particular stock is (0-9)
+
 [Back To The Top](#Stock-Price-Prediction)
 
 ---
