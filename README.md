@@ -23,7 +23,7 @@ The secret of a successful stock trader is being able to look into the future of
 ### Test.csv
 * **id:** Unique ID for each record
 * **Stock:** Unique ID for a stock
-Date: Date for which the stock prices are provided
+* **Date:** Date for which the stock prices are provided
 
 holiday	Whether there is a holiday or not (0/1)
 unpredictability_score	a parameter providing a measure of how volatile. a particular stock is (0-9)
