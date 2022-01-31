@@ -22,7 +22,7 @@ The secret of a successful stock trader is being able to look into the future of
 
 ### Test.csv
 * **id:** Unique ID for each record
-* **stock:** Unique ID for a stock
+* **Stock:** Unique ID for a stock
 Date: Date for which the stock prices are provided
 
 holiday	Whether there is a holiday or not (0/1)
