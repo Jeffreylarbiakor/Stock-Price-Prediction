@@ -27,6 +27,9 @@ Here, we are provided dataset of a public stock market for 104 stocks. Our goal 
 * **Holiday:**	Whether there is a holiday or not (0/1)
 * **Unpredictability_score:**	a parameter providing a measure of how volatile. a particular stock is (0-9)
 
+
+### SampleSubmission
+
 [Back To The Top](#Stock-Price-Prediction)
 
 ---
