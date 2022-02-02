@@ -28,7 +28,7 @@ Here, we are provided dataset of a public stock market for 104 stocks. Our goal 
 * **Unpredictability_score:**	a parameter providing a measure of how volatile. a particular stock is (0-9)
 
 
-### SampleSubmission
+### Sample_submission.csv
 
 [Back To The Top](#Stock-Price-Prediction)
 
