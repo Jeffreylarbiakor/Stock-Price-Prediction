@@ -31,13 +31,9 @@ Here, we are provided dataset of a public stock market for 104 stocks. Our goal 
 ### Sample_submission.csv
 sample_submission.csv
 
-ID
+* **ID:** Unique ID for each record
 
-Unique ID for each record
-
-Close
-
-Predicted closing price for stocks between 1st November to 31st December 2019
+* **Close:** Predicted closing price for stocks between 1st November to 31st December 2019
 
 [Back To The Top](#Stock-Price-Prediction)
 
