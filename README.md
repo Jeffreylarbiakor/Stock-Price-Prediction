@@ -35,6 +35,7 @@ sample_submission.csv
 
 * **Close:** Predicted closing price for stocks between 1st November to 31st December 2019
 
+
 [Back To The Top](#Stock-Price-Prediction)
 
 ---
