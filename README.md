@@ -35,7 +35,7 @@ sample_submission.csv
 
 * **Close:** Predicted closing price for stocks between 1st November to 31st December 2019
 
-Evaluation Metric
+### Evaluation Metric
 Submissions are evaluated on RMSE score between the predicted and observed closing price of a given stock
 
 
